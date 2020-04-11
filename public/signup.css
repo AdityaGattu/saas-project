@@ -1,12 +1,12 @@
 body{
   margin: 0;
   padding: 0;
-  background:url(img2.jpg) no-repeat fixed center;
-  background-size: 100%;
+  background:url(backimg.jpg) ;
+
 }
 
 .layer {
-  background-color: rgba(4, 2, 12, 0.472);
+  background-color: rgba(61, 34, 133, 0.541);
   position: absolute;
   top: 0;
   left: 0;
@@ -19,7 +19,7 @@ body{
   width: 400px;
   padding: 20px;
   text-align: center;
-  background-color:  rgba(0, 0, 2, 0.801);
+  background: url(fav-col2.jpg);
   position: absolute;
   top: 50%;
   left: 50%;
@@ -51,7 +51,7 @@ body{
 .signup-btn{
   margin-top: 60px;
   margin-bottom: 20px;
-  background: #487eb0;
+  background: url(backimg.jpg) no-repeat center;
   color: #fff;
   border-radius: 44px;
   cursor: pointer;
